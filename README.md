@@ -1,6 +1,6 @@
 # Sarah
  
-<!doctype html>
+
 <html>
 <head>
     <title>Sarah CV</title>
@@ -112,5 +112,4 @@
 		</tr>
 	</table>
    
-</body>
-</html>
+
