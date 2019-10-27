@@ -62,8 +62,8 @@
 		
 		
 
-	</ul>
-	<hr>
+	
+	
    <h4>Education</h4>
    <table>
 		<tr>
