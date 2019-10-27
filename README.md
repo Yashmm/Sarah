@@ -26,7 +26,7 @@
    <p>My name is <strong>Sarah</strong> and I am 21 years old. I am born in <ins>Sarajevo</ins> in BiH where I live today. I graduated from <a href="http://www.bosnjackagim.edu.ba">
    First Bosniak High School </a> as one of the best students of the year.
    <br> Currently I am third year student of <em>Sofware Engineering</em> at <a href="https://www.ius.edu.ba/bs"> International University of Sarajevo </a> with full scholarship. 
-   I am interested in web page developing and game industry. <br>I speak three languages: English, Turkish and German.
+   I am interested in web page developing and game industry. <br>I speak English and Turkish very well, while I was also learning little bit of German and Arabic.
     I have been training volleyball for 5 years while I was in Primary and High School. <br>
 	I love to travel and I my favorite
 	countries that I have visited so far are: </p>
@@ -97,7 +97,7 @@
    </table>
    <hr>
    <h4> Intership and experience </h4>
-   <p> I am currently looking for intership in my department but I have done a lot of web pages for some companies so far from home. </p> <blockqoute>
+   <p> I am currently looking for intership in my department but I have done few of web pages for some companies so far from home. </p> <blockqoute>
    I worked in <a href="http://www.cinemacity.ba"> Cinema City </a> and volontired for Crveni Križ Sarajevo. 
    
    <h4>Contact me on:</h4>
