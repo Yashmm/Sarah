@@ -98,7 +98,7 @@
    <hr>
    <h4> Intership and experience </h4>
    <p> I am currently looking for intership in my department but I have done a lot of web pages for some companies so far from home. </p> <blockqoute>
-   I worked in <a href="http://www.cinemacity.ba"> Cinema City </a> and volontired for Crveni Križ Sarajevo. </blockquote>
+   I worked in <a href="http://www.cinemacity.ba"> Cinema City </a> and volontired for Crveni Križ Sarajevo. 
    
    <h4>Contact me on:</h4>
    <table>
