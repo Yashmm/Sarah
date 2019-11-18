@@ -18,7 +18,7 @@
 		 Purpose: Learn basics of HTML
 	-->
    <style>
-#wrapper	{ width:100%; margin:0px auto; background-image:url('../images/bl.jpg')}
+#wrapper	{ width:100%; margin:0px auto; background-image:url('bl.jpg')}
 #top	{ background-color:black; width:100%;overflow:hidden;
    		border-bottom:1px #eeeeee solid;	}
 #name { margin:0 0 0 10px; float:left; color:white;	}
@@ -122,8 +122,8 @@
 		<div id="social-media">
 			<p>Contact me on:</p>	
 			<ul>
-				<li><a href="https://www.facebook.com/sarah.sary.56"><img src="images/fb2.png"/></a></li>
-				<li><a href="https://www.instagram.com/yashm.m/?hl=hr"> <img src="images/ig2.png"/></a></li>
+				<li><a href="https://www.facebook.com/sarah.sary.56"><img src="fb2.png"/></a></li>
+				<li><a href="https://www.instagram.com/yashm.m/?hl=hr"> <img src="ig2.png"/></a></li>
 			</ul>
 		</div>
 	</div>
@@ -139,7 +139,7 @@
 
 
 	<div id="banner" style="width: 100%; height: 100%">
-		<img src="images/sarajevo.jpg" width="100%" />
+		<img src="sarajevo.jpg" width="100%" />
 	</div>
 
 
@@ -151,7 +151,7 @@
    
    <div id="info">
    <h3>BASIC INFORMATIONS </h3>
-   <h4><img src="images/sarah.jpg" title="Sarah"></h4>
+   <h4><img src="sarah.jpg" title="Sarah"></h4>
    <p>My name is <strong>Sarah</strong> and I am 21 years old. I am born in <ins>Sarajevo</ins> in BiH where I live today. I graduated from <a href="http://www.bosnjackagim.edu.ba">
    First Bosniak High School </a> as one of the best students of the year.
    <br> Currently I am third year student of <em>Sofware Engineering</em> at <a href="https://www.ius.edu.ba/bs"> International University of Sarajevo </a> with full scholarship. 
