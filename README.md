@@ -18,7 +18,7 @@
 		 Purpose: Learn basics of HTML
 	-->
    <style>
-#wrapper	{ width:100%; margin:0px auto; background-image:url('../images/bl.jpg')}
+wrapper	{ width:100%; margin:0px auto; background-image:url('../images/bl.jpg')}
 #top	{ background-color:black; width:100%;overflow:hidden;
    		border-bottom:1px #eeeeee solid;	}
 #name { margin:0 0 0 10px; float:left; color:white;	}
