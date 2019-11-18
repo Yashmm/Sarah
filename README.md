@@ -1,7 +1,4 @@
 
- 
-
-
 <html>
 <head>
     <title>Sarah CV</title>
