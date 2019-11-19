@@ -234,7 +234,11 @@
 
 <div id="repository">
  	<p>You can use the following link to access my previous webpage were I used only HTML: 
- 	<a href="https://yashmm.github.io/CV/"> Repository 1 </a> </p>
+ 	<a href="https://yashmm.github.io/CV/"> First Progress </a> </p>
+	<p>You can use the following link to access my Repository 1 
+		<a href="https://github.com/Yashmm/CV"> Repository 1 </a> Repository 1 </p>
+	<p>You can use the following link to access my Repository 2
+		<a href="https://github.com/Yashmm/Sarah"> Repository 2 </a> Repository 2 </p>
  	</div>
 
    
