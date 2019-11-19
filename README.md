@@ -234,7 +234,7 @@
 
 <div id="repository">
  	<p>You can use the follwing link to access my previous webpage were I used only HTML: 
- 	<a href="https://yashmm.github.io/CV/"> First Progres </a> </p>
+ 	<a href="https://yashmm.github.io/CV/"> Repository 1 </a> </p>
  	</div>
 
    
