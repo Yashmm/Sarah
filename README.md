@@ -106,6 +106,12 @@
   border-radius: 4px;
   color:white;
 }
+
+#repository { height:20%; width:100%; background-color:black;
+}
+#repository p { font-size:20px; text-align:center; color: white;
+}
+
 </style
    <body>
 
@@ -225,6 +231,11 @@
 		
 		</form>	
 	</div>
+
+<div id="repository">
+ 	<p>You can use the follwing link to access my previous webpage were I used only HTML:
+ 	<a href="https://yashmm.github.io/CV/"> First Progres </a> </p>
+ 	</div>
 
    
 </body>
