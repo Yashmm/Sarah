@@ -235,10 +235,14 @@
 <div id="repository">
  	<p>You can use the following link to access my previous webpage were I used only HTML: 
  	<a href="https://yashmm.github.io/CV/"> First Progress </a> </p>
-	<p>You can use the following link to access my Repository 1 
+	<p>You can use the following link to access my 
 		<a href="https://github.com/Yashmm/CV"> Repository 1 </a> </p>
-	<p>You can use the following link to access my Repository 2
+	<p>You can use the following link to access my 
 		<a href="https://github.com/Yashmm/Sarah"> Repository 2 </a> </p>
+	<p>You can use the following link to access my 
+		<a href="https://github.com/Yashmm/yashmm"> Repository 3 </a> </p>
+	<p>You can use the following link to access my progres 3 with java script included:
+		<a href="https://yashmm.github.io/yashmm/"> Third Progress </a><p>
  	</div>
 
    
